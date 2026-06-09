@@ -1,0 +1,22 @@
+so i'm apparently writing rcon in javascript
+it exists but is outdated 
+even python is outdated
+
+req: net module
+thats all?
+
+seems so 
+
+
+rcon consists of 32 bits to 512 bits? 
+something like that
+i need to 
+
+
+    make it connect to a tcp connection
+    make it be able to read said tcp connection
+    make it be able to write to said tcp connection
+    receive any results
+    and
+    of course disconnect
+this should be a single file right?
