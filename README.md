@@ -5,7 +5,7 @@ Tested right now only with Factorio for this is the usecase for myself right now
 And if it exists then it's Coding practise (:
 
 ## Example Usage
-example used is a Factorio Server using RCON.
+example used is a LOCAL (that's why the localhost IP) Factorio Server using RCON.
 
 Create a new file in the same folder and use this code:
 
