@@ -60,7 +60,6 @@ function createRCONclient(host=fallbackhost, port=fallbackport, password){
                 }
 
                 else if (pendingRequests.get(packetID)=='Auth'){
-                    console.log('Authenticated successfully')
                     pendingRequests.delete(packetID);
                 }
 

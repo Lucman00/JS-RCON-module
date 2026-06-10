@@ -1,0 +1,20 @@
+{
+  "name": "js-rcon",
+  "version": "1.0.0",
+  "description": "Javascript RCON module",
+  "keywords": ["RCON", "JS"],
+  "homepage": "https://github.com/Lucman00/JS-RCON-module#readme",
+  "bugs": {
+    "url": "https://github.com/Lucman00/JS-RCON-module/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucman00/JS-RCON-module.git"
+  },
+  "license": "MIT",
+  "author": "Luca (Lucman00)",
+  "main": "rcon.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
