@@ -14,7 +14,8 @@
   "license": "MIT",
   "author": "Luca (Lucman00)",
   "main": "rcon.js",
-  "scripts": {
-    "test": "node test.js"
+  "files": ["rcon.js", "README.md", "LICENSE"],
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
